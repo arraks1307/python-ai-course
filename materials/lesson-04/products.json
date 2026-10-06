@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Ноутбук",
+    "price": 79990,
+    "category": "Ноутбуки",
+    "in_stock": true
+  },
+  {
+    "name": "Мышь",
+    "price": 1490,
+    "category": "Аксессуары",
+    "in_stock": true
+  },
+  {
+    "name": "Клавиатура",
+    "price": 5990,
+    "category": "Аксессуары",
+    "in_stock": false
+  },
+  {
+    "name": "Монитор",
+    "price": 24990,
+    "category": "Мониторы",
+    "in_stock": true
+  },
+  {
+    "name": "Наушники",
+    "price": 7990,
+    "category": "Аксессуары",
+    "in_stock": true
+  },
+  {
+    "name": "Веб-камера",
+    "price": 4490,
+    "category": "Аксессуары",
+    "in_stock": true
+  }
+]
