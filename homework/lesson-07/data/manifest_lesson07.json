@@ -1,0 +1,23 @@
+{
+  "stage": "lesson-07-checked-not-cleaned",
+  "source": "titanic.csv",
+  "source_sha256": "4a437fde05fe5264e1701a7387ac6fb75393772ba38bb2c9c566405af5af4bd7",
+  "output": "titanic_lesson07.csv",
+  "output_sha256": "8331e5a2532f5fdb66153a8fc053df08a7dc9d2584f246c7fb1752f0a7139ca5",
+  "rows": 891,
+  "columns": [
+    "PassengerId",
+    "Survived",
+    "Pclass",
+    "Name",
+    "Sex",
+    "Age",
+    "SibSp",
+    "Parch",
+    "Ticket",
+    "Fare",
+    "Cabin",
+    "Embarked"
+  ],
+  "changes": "Без очистки; сохранение CSV без индекса; пропуски сохранены"
+}
