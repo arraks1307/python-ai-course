@@ -1,0 +1,13 @@
+field,known,missing
+PassengerId,891,0
+Survived,891,0
+Pclass,891,0
+Name,891,0
+Sex,891,0
+Age,714,177
+SibSp,891,0
+Parch,891,0
+Ticket,891,0
+Fare,891,0
+Cabin,204,687
+Embarked,889,2
