@@ -1,0 +1,25 @@
+{
+  "lesson": 8,
+  "source_sha256": "4a437fde05fe5264e1701a7387ac6fb75393772ba38bb2c9c566405af5af4bd7",
+  "previous": "учебный резерв, личный этап отсутствовал",
+  "output": "titanic_lesson08.csv",
+  "sha256": "92621856f98b668c2577c089675381fa876528eba075d7e7795b58758d7fdbb9",
+  "rows": 891,
+  "columns": [
+    "PassengerId",
+    "Survived",
+    "Pclass",
+    "Name",
+    "Sex",
+    "Age",
+    "SibSp",
+    "Parch",
+    "Ticket",
+    "Fare",
+    "Cabin",
+    "Embarked",
+    "Family_size",
+    "Is_alone",
+    "Age_group"
+  ]
+}
